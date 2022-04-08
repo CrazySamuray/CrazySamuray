@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CrazySamuray
+- 👀 I’m interested in Python and React
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on ...
