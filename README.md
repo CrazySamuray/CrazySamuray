@@ -1,6 +1,8 @@
-- 👋 Hi, I’m CrazySamuray I'm a mostly self taught developer and I currently mainly use python
-my current goal is to master javascript and react but I dont have much time to do so because of my work
+- 👋 Hello there!
+- I’m Azulay, a mostly self taught developer that mainly uses python for data related projects
+my current goal is to master node JS and react, but I dont have much time to do so because of my work
 I enjoy learning languages and using new tools and what I currently know is:
+(this list might be outdated)
 
 <img   src="https://camo.githubusercontent.com/895b22c9deb1a110a756a9cfa37038ea6a4c7fa8435e2b26cdab78d18a11f57c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3030376166663f7374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465"/>
 <img   src="https://camo.githubusercontent.com/ca4a831e9bb07036a20e7b723a9b095e30bea5ce9bbc24492d0adb09dab33813/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d6536366131373f7374796c653d666c6174266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465"/>
