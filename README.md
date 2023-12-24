@@ -1,6 +1,6 @@
 - 👋 Hello there!
-- I’m Azulay, a mostly self taught developer that mainly uses python for data related projects
-my current goal is to master node JS and react, but I dont have much time to do so because of my work
+- I’m Azulay, a mostly self taught developer that mainly uses python for data related projects.
+my current goal is to master node JS and react, but I dont have much time to do so because of my work.
 I enjoy learning languages and using new tools and what I currently know is:
 (this list might be outdated)
 
